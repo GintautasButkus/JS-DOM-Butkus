@@ -1,0 +1,28 @@
+.text{
+    font-size: 200px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.input{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    border: none;
+}
+
+.field{
+    width: 700px;
+    height: 50px;
+    border-radius: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(70, 70, 70);
+    outline: none;
+    border: none;
+}
+
+body{
+    background-color: rgb(72, 216, 226);
+}
